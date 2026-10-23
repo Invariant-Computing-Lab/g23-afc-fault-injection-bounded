@@ -1,0 +1,8 @@
+{
+  "cli_status": "PASS",
+  "fixture_hash": "40157756195732fb7228f32a23f7c58a7bb07d34675d79ecd8e541a29473ff22",
+  "rights": "PENDING",
+  "source_sha256": "239b7fc00c8f9aa72d024535897fe7bf3a96a5662e7b2c8d5ed08045f40c028d",
+  "target_code": "G23",
+  "unit_tests": "PASS"
+}
